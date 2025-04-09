@@ -27,9 +27,9 @@ CarWash/
 │   │   ├── PassengerCar.cs
 │   │   ├── Jeep.cs
 │   │   ├── Minibus.cs
-│	│	├── ICarFactory.cs
-│	│	├── CarFactory.cs
-│	│	├── PassengerCarFactory.cs
+│   │	  ├── ICarFactory.cs
+│	  │	  ├── CarFactory.cs
+│	  │	  ├── PassengerCarFactory.cs
 │   │   ├── JeepFactory.cs
 │   │   └── MinibusFactory.cs
 │   │   
@@ -37,7 +37,7 @@ CarWash/
 │   │   ├── CarQueue.cs
 │   │   ├── CarWashSlot.cs
 │   │   ├── CarWashService.cs
-│	│	└── SimulationEngine.cs
+│	  │	  └── SimulationEngine.cs
 │   │
 │   └── CarWash.Tests.cs
 │
