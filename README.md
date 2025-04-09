@@ -19,6 +19,7 @@
 
 ## 📂 Структура проекта
 
+```bash
 CarWash/
 ├── CarWash.Core/
 │   ├── Models/
@@ -43,7 +44,7 @@ CarWash/
 ├── CarWash.ConsoleApp/
 │   ├── CarWash.ConsoleApp.cs
 └── README.md
-
+```
 ---
 
 ## Автор
